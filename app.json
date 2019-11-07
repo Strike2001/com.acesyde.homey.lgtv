@@ -20,5 +20,27 @@
   "author": {
     "name": "Pierre-Emmanuel Mercier",
     "email": "acesyde@gmail.com"
-  }
+  },
+  "drivers": [
+    {
+      "id": "webos",
+      "name": {
+        "en": "WebOS"
+      },
+      "class": "tv",
+      "capabilities": [
+        "channel_down",
+        "channel_up",
+        "volume_set",
+        "onoff",
+        "volume_down",
+        "volume_mute",
+        "volume_up"
+      ],
+      "images": {
+        "large": "/drivers/webos/assets/images/large.png",
+        "small": "/drivers/webos/assets/images/small.png"
+      }
+    }
+  ]
 }

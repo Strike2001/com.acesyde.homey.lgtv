@@ -1,0 +1,19 @@
+{
+  "name": "com.acesyde.homey.lgtv",
+  "version": "0.0.1",
+  "description": "Support for LGTV WebOS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acesyde/com.acesyde.homey.lgtv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acesyde/com.acesyde.homey.lgtv/issues"
+  },
+  "homepage": "https://github.com/acesyde/com.acesyde.homey.lgtv#readme"
+}
