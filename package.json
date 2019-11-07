@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/acesyde/com.acesyde.homey.lgtv/issues"
   },
-  "homepage": "https://github.com/acesyde/com.acesyde.homey.lgtv#readme"
+  "homepage": "https://github.com/acesyde/com.acesyde.homey.lgtv#readme",
+  "dependencies": {
+    "webos": "^3.0.1"
+  }
 }
