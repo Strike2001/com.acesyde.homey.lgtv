@@ -1,1 +1,3 @@
-# com.acesyde.homey.lgtv
+# LGTV WebOS
+
+Support for LGTV WebOS

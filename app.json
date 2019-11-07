@@ -1,0 +1,24 @@
+{
+  "id": "com.acesyde.homey.lgtv",
+  "version": "0.0.1",
+  "compatibility": ">=1.5.0",
+  "sdk": 2,
+  "name": {
+    "en": "LGTV WebOS"
+  },
+  "description": {
+    "en": "Support for LGTV WebOS"
+  },
+  "category": [
+    "video"
+  ],
+  "permissions": [],
+  "images": {
+    "large": "/assets/images/large.png",
+    "small": "/assets/images/small.png"
+  },
+  "author": {
+    "name": "Pierre-Emmanuel Mercier",
+    "email": "acesyde@gmail.com"
+  }
+}
